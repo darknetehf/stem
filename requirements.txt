@@ -2,4 +2,4 @@ mock
 pyflakes
 pycodestyle
 tox
-cryptography==39.0.2
+cryptography==44.0.1
